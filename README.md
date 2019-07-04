@@ -1,1 +1,1 @@
-# component-and-autowired-spring-boot
+# spring-boot-study
