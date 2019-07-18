@@ -5,5 +5,4 @@ public class ToDo {
     private String title;
     private String detail;
 
-    
 }

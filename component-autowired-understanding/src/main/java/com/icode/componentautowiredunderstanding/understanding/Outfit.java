@@ -1,5 +1,7 @@
 package com.icode.componentautowiredunderstanding.understanding;
 
-public class Outfit {
+public interface Outfit {
+
+    public void wear();
 
 }
